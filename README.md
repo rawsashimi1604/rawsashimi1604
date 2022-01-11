@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Gavin!
 
-<!--
-**rawsashimi1604/rawsashimi1604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm GAvin and I'm a first-year software engineering student in Singapore Institute of Technology. I started learning programming in early 2020 (Python) and have fell in love with it ever since! 
 
-Here are some ideas to get you started:
+NOW
+- :notebook_with_decorative_cover: Learning how to create full-stack websites using NodeJS, SCSS, Vue.JS, MongoDB, Express.JS
+- :orange_book: Learning how to design good code using Object Oriented Programming concepts.
+- :sleeping: Attempting to fix my body clock in university :smiley:
+- :computer: Grinding data structures and algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+BIO
+- :school: I'm a first-year software engineering student in Singapore Institute of Technology.
+- ⚙️ I use daily: `.js` `.html` `.css` `.scss` `.py` 
+- 📫 Reach me: [looweiren@gmail.com](mailto:looweiren@gmail.com)
+- :sparkles: Fun fact: I love japanese food!! :sushi:
