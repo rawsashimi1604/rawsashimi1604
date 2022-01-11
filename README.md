@@ -13,3 +13,5 @@ BIO
 - ⚙️ I use daily: `.js` `.html` `.css` `.scss` `.py` 
 - 📫 Reach me: [looweiren@gmail.com](mailto:looweiren@gmail.com)
 - :sparkles: Fun fact: I love japanese food!! :sushi:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawsashimi1604&show_icons=true&theme=tokyonight)
