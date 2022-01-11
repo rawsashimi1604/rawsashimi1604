@@ -7,6 +7,7 @@ NOW
 - :orange_book: Learning how to design good code using Object Oriented Programming concepts.
 - :sleeping: Attempting to fix my body clock in university :smiley:
 - :computer: Grinding data structures and algorithms.
+- :hammer: Somewhat learning how to build APIs using Flask and Express.JS
 
 BIO
 - :school: I'm a first-year software engineering student in Singapore Institute of Technology.
