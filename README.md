@@ -15,4 +15,6 @@ BIO
 - 📫 Reach me: [looweiren@gmail.com](mailto:looweiren@gmail.com)
 - :sparkles: Fun fact: I love japanese food!! :sushi:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawsashimi1604&show_icons=true&theme=tokyonight&hide=issues,contribs)
+![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawsashimi1604&show_icons=true&theme=tokyonight&hide=issues,contribs) 
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rawsashimi1604&theme=tokyonight&exclude_repo=1004_Project)](https://github.com/rawsashimi1604/github-readme-stats)
