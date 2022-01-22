@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Gavin!
+### Hi there 👋
 
 Hi! I'm Gavin and I'm a first-year software engineering student in Singapore Institute of Technology. I started learning programming in early 2020 (Python) and have fell in love with it ever since! 
 
