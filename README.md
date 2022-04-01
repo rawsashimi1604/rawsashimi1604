@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! I'm Gavin and I'm a first-year software engineering student in Singapore Institute of Technology. I started learning programming in early 2020 (Python) and have fell in love with it ever since! 
+Hi! I'm Gavin and I'm a first-year software engineering student in Singapore Institute of Technology. I started learning programming in early 2021 (Python) and have fell in love with it ever since! 
 
 NOW
 - :notebook_with_decorative_cover: Learning how to create full-stack websites using NodeJS, SCSS, Vue.JS, MongoDB, Express.JS
