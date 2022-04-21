@@ -3,7 +3,7 @@
 Hi! I'm Gavin and I'm a first-year software engineering student in Singapore Institute of Technology. I started learning programming in early 2021 (Python) and have fell in love with it ever since! 
 
 NOW
-- :notebook_with_decorative_cover: Learning how to create full-stack websites using NodeJS, SCSS, Vue.JS, MongoDB, Express.JS
+- :notebook_with_decorative_cover: Learning how to create full-stack websites using NodeJS, SCSS, React.JS, MongoDB, Express.JS
 - :orange_book: Learning how to design good software using Object Oriented Programming concepts (Java, Python, C++).
 - :sleeping: Attempting to fix my body clock in university :smiley:
 - :computer: Grinding data structures and algorithms (Leetcode).
