@@ -24,5 +24,5 @@ I'm a first-year software engineering student in Singapore Institute of Technolo
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 
-Linkedin: https://www.linkedin.com/in/gavin-loo-853047143/
+Linkedin: https://www.linkedin.com/in/gavin-loo-853047143/ <br>
 Email: looweiren@gmail.com
