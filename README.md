@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Gavin :blush:
 
-I'm a second-year software engineering student in Singapore Institute of Technology. I started programming in early 2021 and have fell in love with it ever since! I enjoy sleeping on rainy days and binge eating Japanese food :sushi::sleeping: Always looking to learn and improve myself. Currently, I'm working on learning full-stack web frameworks such as React.js, Express.js, PostgresDB, MongoDB, Next.js.
+I'm a second-year software engineering student in Singapore Institute of Technology. I started programming in early 2021 and have fell in love with it ever since! I enjoy sleeping on rainy days and binge eating Japanese food :sushi::sleeping: Always looking to learn and improve myself. Currently, I'm working on learning full-stack web frameworks such as React.js, Express.js, PostgresDB, MongoDB, Next.js as well as Software Engineering best practices such as Test Driven Development, Clean Code and Docker/Containers/Deployment.
 
 ### I use these bad boys to create things
 
