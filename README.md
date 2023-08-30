@@ -1,37 +1,37 @@
 ### 👋 Hi there! I'm Gavin :blush:
 
-I'm a second-year software engineering student in Singapore Institute of Technology. I started programming in early 2021 and have fell in love with it ever since! I enjoy sleeping on rainy days and binge eating Japanese food :sushi::sleeping: Always looking to learn and improve myself. Currently, I'm working on learning full-stack web frameworks such as React.js, Express.js, PostgresDB, MongoDB, Next.js as well as Software Engineering best practices such as Test Driven Development, Clean Code and Docker/Containers/Deployment.
+I'm a third year student studying Software Engineering at 🎓 Singapore Institute of Technology. My specialties include being a quick learner (language agnostic), problem-solving, and writing clean code.  I love sharing my knowledge with others and making a positive impact - seeing others grow, learn, and succeed through the knowledge I share brings me great joy! 🌱
 
-### I use these bad boys to create things
+When not coding:
+🎸 I'm into rock/metal music, following the local music scene
+⚽ I support Leicester City Football Club
+📱 On Reddit
+🍣 Binge eating Japanese food
+🎮 Playing games with friends
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><nobr>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/><nobr>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><nobr>
-<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/><nobr>
-<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/><nobr>
-<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/><nobr>
-<img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/><nobr>
-<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-<img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+Sometimes, I write about tech stuff on my blog at gavinloo.com 😉.
+
+Skills:
+🛠 Languages: Javascript/Typescript, Golang, Java, Python, C#, C/C++, HTML, CSS/SCSS, Linux/Bash Scripting
+
+💾Databases: PostgreSQL, MongoDB, MySQL, SQLite
+
+☁️DevOps/Cloud: Git/GitHub/Bitbucket, Azure Dev Ops(ADO), GitHub Actions, Docker/Docker-Compose, Kubernetes, Helm, Openshift, Heroku, Vercel, AWS EC2, AWS S3, Firebase RTDB, Firebase Storage
+
+🌐Frameworks: Node.js, React.js, Next.js, Express.js, Redux, Recoil, Jest/Jest-Cucumber, Enzyme, React-Testing-Library, Supertest, Selenium, Pandas, Qt, .NET 6, EF Core, Prisma (ORM), Bootstrap, TailwindCSS, Axios, Lombok, Jackson, SLF4J, Mux
+
+💻IDEs: Visual Studio Code, Visual Studio, IntelliJ
+
+🔧Other Tech Stuff: Postman, JSON/YAML, NPM, Gradle, AJAX, UML, Atlassian Suite (Bitbucket/Jira/Confluence), Agile, REST API, Webpack, Microfrontends, JSON Web Tokens (JWT), Figma, SOLID, Data Structures and Algorithms, Software Design Patterns, Clean Code, Clean Architecture, Test Driven Development(TDD), Domain Driven Design(DDD), BDD, Gherkin, ESLint, Prettier, API Gateway, Kong Enterprise
+
+📚Currently reading / past books I've read:
+• Clean Code: A Handbook of Agile Software Craftsmanship - Robert Martin
+• The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - Gene Kim, Kevin Behr, George Spafford
+• Refactoring: Improving the Design of Existing Code - Martin Fowler
+• Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans
+• Implementing Domain-Driven Design - Vaughn Vernon
+
+Contact me at looweiren@gmail.com to find out more!
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
