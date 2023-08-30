@@ -2,12 +2,12 @@
 
 I'm a third year student studying Software Engineering at 🎓 Singapore Institute of Technology. My specialties include being a quick learner (language agnostic), problem-solving, and writing clean code.  I love sharing my knowledge with others and making a positive impact - seeing others grow, learn, and succeed through the knowledge I share brings me great joy! 🌱
 
-When not coding:
-🎸 I'm into rock/metal music, following the local music scene
-⚽ I support Leicester City Football Club
-📱 On Reddit
-🍣 Binge eating Japanese food
-🎮 Playing games with friends
+When not coding:<br/>
+🎸 I'm into rock/metal music, following the local music scene<br/>
+⚽ I support Leicester City Football Club<br/>
+📱 On Reddit<br/>
+🍣 Binge eating Japanese food<br/>
+🎮 Playing games with friends<br/>
 
 Sometimes, I write about tech stuff on my blog at gavinloo.com 😉.
 
