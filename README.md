@@ -11,7 +11,7 @@ When not coding:<br/>
 
 Sometimes, I write about tech stuff on my blog at gavinloo.com 😉.
 
-Skills:
+Skills:<br/>
 🛠 Languages: Javascript/Typescript, Golang, Java, Python, C#, C/C++, HTML, CSS/SCSS, Linux/Bash Scripting
 
 💾Databases: PostgreSQL, MongoDB, MySQL, SQLite
