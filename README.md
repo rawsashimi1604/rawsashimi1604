@@ -12,17 +12,17 @@ When not coding:<br/>
 Sometimes, I write about tech stuff on my blog at gavinloo.com 😉.
 
 Skills:<br/>
-🛠 Languages: <i>Javascript/Typescript, Golang, Java, Python, C#, C/C++, HTML, CSS/SCSS, Linux/Bash Scripting</i>
+🛠<b>Languages:</b> <i>Javascript/Typescript, Golang, Java, Python, C#, C/C++, HTML, CSS/SCSS, Linux/Bash Scripting</i>
 
-💾Databases: <i>PostgreSQL, MongoDB, MySQL, SQLite</i>
+💾<b>Databases:</b> <i>PostgreSQL, MongoDB, MySQL, SQLite</i>
 
-☁️DevOps/Cloud: <i>Git/GitHub/Bitbucket, Azure Dev Ops(ADO), GitHub Actions, Docker/Docker-Compose, Kubernetes, Helm, Openshift, Heroku, Vercel, AWS EC2, AWS S3, Firebase RTDB, Firebase Storage</i>
+☁️<b>DevOps/Cloud:</b> <i>Git/GitHub/Bitbucket, Azure Dev Ops(ADO), GitHub Actions, Docker/Docker-Compose, Kubernetes, Helm, Openshift, Heroku, Vercel, AWS EC2, AWS S3, Firebase RTDB, Firebase Storage</i>
 
-🌐Frameworks: <i>Node.js, React.js, Next.js, Express.js, Redux, Recoil, Jest/Jest-Cucumber, Enzyme, React-Testing-Library, Supertest, Selenium, Pandas, Qt, .NET 6, EF Core, Prisma (ORM), Bootstrap, TailwindCSS, Axios, Lombok, Jackson, SLF4J, Mux</i>
+🌐<b>Frameworks:</b> <i>Node.js, React.js, Next.js, Express.js, Redux, Recoil, Jest/Jest-Cucumber, Enzyme, React-Testing-Library, Supertest, Selenium, Pandas, Qt, .NET 6, EF Core, Prisma (ORM), Bootstrap, TailwindCSS, Axios, Lombok, Jackson, SLF4J, Mux</i>
 
-💻IDEs: <i>Visual Studio Code, Visual Studio, IntelliJ</i>
+💻<b>IDEs:</b> <i>Visual Studio Code, Visual Studio, IntelliJ</i>
 
-🔧Other Tech Stuff: <i>Postman, JSON/YAML, NPM, Gradle, AJAX, UML, Atlassian Suite (Bitbucket/Jira/Confluence), Agile, REST API, Webpack, Microfrontends, JSON Web Tokens (JWT), Figma, SOLID, Data Structures and Algorithms, Software Design Patterns, Clean Code, Clean Architecture, Test Driven Development(TDD), Domain Driven Design(DDD), BDD, Gherkin, ESLint, Prettier, API Gateway, Kong Enterprise</i>
+🔧<b>Other Tech Stuff:</b> <i>Postman, JSON/YAML, NPM, Gradle, AJAX, UML, Atlassian Suite (Bitbucket/Jira/Confluence), Agile, REST API, Webpack, Microfrontends, JSON Web Tokens (JWT), Figma, SOLID, Data Structures and Algorithms, Software Design Patterns, Clean Code, Clean Architecture, Test Driven Development(TDD), Domain Driven Design(DDD), BDD, Gherkin, ESLint, Prettier, API Gateway, Kong Enterprise</i>
 
 📚Currently reading / past books I've read:<br/>
 • <i>Clean Code: A Handbook of Agile Software Craftsmanship - Robert Martin<br/></i>
