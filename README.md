@@ -31,12 +31,6 @@ Skills:
 • Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans
 • Implementing Domain-Driven Design - Vaughn Vernon
 
-Contact me at looweiren@gmail.com to find out more!
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
+Contact me to find out more!
 Linkedin: https://www.linkedin.com/in/gavin-loo-853047143/ <br>
 Email: looweiren@gmail.com
