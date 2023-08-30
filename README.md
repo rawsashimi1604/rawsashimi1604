@@ -24,12 +24,12 @@ Skills:<br/>
 
 🔧Other Tech Stuff: Postman, JSON/YAML, NPM, Gradle, AJAX, UML, Atlassian Suite (Bitbucket/Jira/Confluence), Agile, REST API, Webpack, Microfrontends, JSON Web Tokens (JWT), Figma, SOLID, Data Structures and Algorithms, Software Design Patterns, Clean Code, Clean Architecture, Test Driven Development(TDD), Domain Driven Design(DDD), BDD, Gherkin, ESLint, Prettier, API Gateway, Kong Enterprise
 
-📚Currently reading / past books I've read:
-• Clean Code: A Handbook of Agile Software Craftsmanship - Robert Martin
-• The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - Gene Kim, Kevin Behr, George Spafford
-• Refactoring: Improving the Design of Existing Code - Martin Fowler
-• Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans
-• Implementing Domain-Driven Design - Vaughn Vernon
+📚Currently reading / past books I've read:<br/>
+• Clean Code: A Handbook of Agile Software Craftsmanship - Robert Martin<br/>
+• The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - Gene Kim, Kevin Behr, George Spafford<br/>
+• Refactoring: Improving the Design of Existing Code - Martin Fowler<br/>
+• Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans<br/>
+• Implementing Domain-Driven Design - Vaughn Vernon<br/>
 
 Contact me to find out more!
 Linkedin: https://www.linkedin.com/in/gavin-loo-853047143/ <br>
