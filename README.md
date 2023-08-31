@@ -9,7 +9,7 @@ When not coding:<br/>
 🍣 Binge eating Japanese food<br/>
 🎮 Playing games with friends<br/>
 
-Sometimes, I write about tech stuff on my blog at gavinloo.com 😉.
+Sometimes, I write about tech stuff on my blog at gavinloo.com 😋.
 
 Skills:<br/>
 🛠<b>Languages:</b> <i>Javascript/Typescript, Golang, Java, Python, C#, C/C++, HTML, CSS/SCSS, Linux/Bash Scripting</i>
