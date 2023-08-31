@@ -31,6 +31,6 @@ Skills:<br/>
 • <i>Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans<br/></i>
 • <i>Implementing Domain-Driven Design - Vaughn Vernon<br/></i>
 
-Contact me to find out more!
+Contact me to find out more! <br/>
 Linkedin: https://www.linkedin.com/in/gavin-loo-853047143/ <br>
 Email: looweiren@gmail.com
