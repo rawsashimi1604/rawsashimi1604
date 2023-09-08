@@ -32,5 +32,6 @@ Skills:<br/>
 • <i>Implementing Domain-Driven Design - Vaughn Vernon<br/></i>
 
 Contact me to find out more! <br/>
+Website: https://gavinloo.com <br>
 Linkedin: https://www.linkedin.com/in/gavin-loo-853047143/ <br>
 Email: looweiren@gmail.com
