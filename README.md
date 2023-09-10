@@ -16,9 +16,9 @@ Skills:<br/>
 
 💾<b>Databases:</b> <i>PostgreSQL, MongoDB, MySQL, SQLite</i>
 
-☁️<b>DevOps/Cloud:</b> <i>Git/GitHub/Bitbucket, Azure Dev Ops(ADO), GitHub Actions, Docker/Docker-Compose, Kubernetes, Helm, Openshift, Heroku, Vercel, AWS EC2, AWS S3, Firebase RTDB, Firebase Storage</i>
+☁️<b>DevOps/Cloud:</b> <i>Git/GitHub/Bitbucket, Azure Dev Ops(ADO), GitHub Actions, Docker/Docker-Compose/DockerHub, Kubernetes, Helm, Openshift, Heroku, Vercel, AWS EC2, AWS S3, Firebase RTDB, Firebase Storage</i>
 
-🌐<b>Frameworks:</b> <i>Node.js, React.js, Next.js, Express.js, Redux, Recoil, Jest/Jest-Cucumber, Enzyme, React-Testing-Library, Supertest, Selenium, Pandas, Qt, .NET 6, EF Core, Prisma (ORM), Bootstrap, TailwindCSS, Axios, Lombok, Jackson, SLF4J, Mux</i>
+🌐<b>Frameworks:</b> <i>Node.js, React.js, Next.js, Express.js, Redux, Recoil, Jest/Jest-Cucumber, Enzyme, React-Testing-Library, Supertest, Selenium, Pandas, Qt, .NET 6, EF Core, Prisma (ORM), Bootstrap, TailwindCSS, Axios, Lombok, Jackson, SLF4J, Mux, Yup, Go-Validator</i>
 
 💻<b>IDEs:</b> <i>Visual Studio Code, Visual Studio, IntelliJ</i>
 
