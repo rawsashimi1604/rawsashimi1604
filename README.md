@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Gavin :blush:
 
-👋 Hi! I'm Gavin, third-year student studying Software Engineering at 🎓 Singapore Institute of Technology. My specialties include being a quick learner (language agnostic), problem-solving, and writing clean code, having experience across the web-stack (frontend, backend and devops). I love sharing my knowledge with others and making a positive impact - seeing others grow, learn, and succeed through the knowledge I share brings me great joy! 🌱
+I'm a third-year student studying Software Engineering at 🎓 Singapore Institute of Technology. My specialties include being a quick learner (language agnostic), problem-solving, and writing clean code, having experience across the web-stack (frontend, backend and devops). I love sharing my knowledge with others and making a positive impact - seeing others grow, learn, and succeed through the knowledge I share brings me great joy! 🌱
 
 When not coding:
 🎸 I'm into rock/metal music, following the local music scene <br/>
