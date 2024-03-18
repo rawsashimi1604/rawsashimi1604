@@ -24,15 +24,15 @@ Skills:
 
 🔧Other Tech Stuff: Postman, JSON/YAML, NPM, Gradle, AJAX, UML, Atlassian Suite (Bitbucket/Jira/Confluence), Agile, REST API, Webpack, Microfrontends, JSON Web Tokens (JWT/JWS), Figma, SOLID, Data Structures and Algorithms, Software Design Patterns, Clean Code, Clean Architecture, Test Driven Development(TDD), Domain Driven Design(DDD), BDD, Gherkin, ESLint, Prettier, API Gateway, Kong, Kong Enterprise, NGINX. Linux
 
-📚Currently reading / past books I've read:
-• Clean Code: A Handbook of Agile Software Craftsmanship - Robert Martin
-• Design Patterns - Gang of Four
-• The Mythical Man-Month - Fred Brooks
-• Designing Data-Intensive Applications - Martin Kleppmann
-• The Pragmatic Programmer - Andy Hunt, Dave Thomas
-• The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - Gene Kim, Kevin Behr, George Spafford
-• Refactoring: Improving the Design of Existing Code - Martin Fowler
-• Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans
-• Implementing Domain-Driven Design - Vaughn Vernon
+📚Currently reading / past books I've read: <br/>
+• Clean Code: A Handbook of Agile Software Craftsmanship - Robert Martin<br/>
+• Design Patterns - Gang of Four<br/>
+• The Mythical Man-Month - Fred Brooks<br/>
+• Designing Data-Intensive Applications - Martin Kleppmann<br/>
+• The Pragmatic Programmer - Andy Hunt, Dave Thomas<br/>
+• The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - Gene Kim, Kevin Behr, George Spafford<br/>
+• Refactoring: Improving the Design of Existing Code - Martin Fowler<br/>
+• Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans<br/>
+• Implementing Domain-Driven Design - Vaughn Vernon<br/>
 
 Contact me at looweiren@gmail.com to find out more!
