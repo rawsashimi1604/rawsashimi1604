@@ -16,7 +16,7 @@ Skills:<br/>
 
 💾Databases: PostgreSQL, MongoDB, MySQL, SQLite
 
-☁️DevOps/Cloud: Git/GitHub/Bitbucket, Azure Dev Ops(ADO), GitHub Actions, Docker/Docker-Compose/DockerHub, Kubernetes, Helm, Openshift, Heroku, Vercel, AWS EC2, AWS S3, AWS ACM, AWS Route53, AWS ALB
+☁️DevOps/Cloud: Git/GitHub/Bitbucket, Azure Dev Ops(ADO), GitHub Actions, Docker/Docker-Compose/DockerHub, TestContainers (Integration tests), Kubernetes, Helm, Openshift, Heroku, Vercel, AWS EC2, AWS S3, AWS ACM, AWS Route53, AWS ALB
 
 🌐Frameworks/Tools: Node.js, React.js, Next.js, Express.js, Redux, Recoil, Jest/Jest-Cucumber, Enzyme, React-Testing-Library, Supertest, Selenium, Pandas, Qt, .NET 6, EF Core, Prisma (ORM), Bootstrap, TailwindCSS, Axios, Lombok, Jackson, SLF4J, Mux, Yup, Go-Validator, Jq (jsonquery)
 
