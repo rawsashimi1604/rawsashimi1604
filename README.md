@@ -7,7 +7,7 @@ When not coding: <br/>
 ⚽ I support Leicester City Football Club <br/>
 📱 On Reddit <br/>
 🍣 Binge eating Japanese food <br/>
-🎮 Playing games with friends <br/>
+🎮 Playing games (diablo, lastepoch, fifa, valo, wow) <br/>
 
 Sometimes, I write about tech stuff on my blog at gavinloo.com 😋
 
