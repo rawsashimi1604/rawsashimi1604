@@ -22,7 +22,7 @@ Skills:<br/>
 
 💻IDEs: Visual Studio Code, Visual Studio, IntelliJ, Vim (vim motions), GNU nano
 
-🔧Other Tech Stuff: Postman, JSON/YAML, NPM, Gradle, AJAX, UML, Atlassian Suite (Bitbucket/Jira/Confluence), Agile, REST API, Webpack, Microfrontends, JSON Web Tokens (JWT/JWS), Figma, SOLID, Data Structures and Algorithms, Software Design Patterns, Clean Code, Clean Architecture, Test Driven Development(TDD), Domain Driven Design(DDD), BDD, Gherkin, ESLint, Prettier, API Gateway, Kong, Kong Enterprise, NGINX. Linux
+🔧Other Tech Stuff: Postman, JSON/YAML, NPM, Gradle, AJAX, UML, Atlassian Suite (Bitbucket/Jira/Confluence), Agile, REST API, Webpack, Microfrontends, JSON Web Tokens (JWT/JWS), Figma, SOLID, Data Structures and Algorithms, Software Design Patterns, Clean Code, Clean Architecture, Test Driven Development(TDD), Domain Driven Design(DDD), BDD, Gherkin, ESLint, Prettier, API Gateway, Kong, Kong Enterprise, NGINX, Linux, Makefile
 
 📚Currently reading / past books I've read: <br/>
 • Clean Code: A Handbook of Agile Software Craftsmanship - Robert Martin<br/>
